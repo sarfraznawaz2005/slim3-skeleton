@@ -9,6 +9,12 @@ Based on [Slim3-Skeleton by Rob Allen][1] with somewhat modified folder structur
  - Dependency-aware Controllers (constructor injection)
  - Tracy Errors Handler
 
+# Installation
+
+After clonning/downloading it, run:
+
+`composer install`
+
 # Screenshot
 
 ![Settings Window](https://raw.github.com/sarfraznawaz2005/slim3-skeleton/master/screenshot.png)
