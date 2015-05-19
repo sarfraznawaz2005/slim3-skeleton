@@ -1,0 +1,29 @@
+{
+  "name": "Slim3-Skeleton",
+  "description": "Slim3 Skeleton + Nice Admin Layout",
+  "license": "MIT",
+  "type": "project",
+  "keywords": [
+    "slim",
+    "slim3"
+  ],
+  "authors": [
+    {
+      "name": "Sarfraz Ahmed",
+      "email": "sarfraznawaz2005@gmail.com",
+      "homepage": "https://codeinphp.github.io"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/src"
+    }
+  },
+  "require": {
+    "slim/slim": "dev-develop",
+    "slim/twig-view": "dev-master",
+    "slim/flash": "dev-master",
+    "monolog/monolog": "^1.13",
+    "tracy/tracy": "*"
+  }
+}
